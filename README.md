@@ -1,2 +1,2 @@
 # auto-complete-react
-here is my soluttion for autocomplete component with StarWars API
+here is my solution for autocomplete component with StarWars API
